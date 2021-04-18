@@ -1,6 +1,7 @@
 # Tindev
 
  - [Description](#description)
+ - [Running](#running)
  - [Images](#images)
 
 <h2 id="description" name=description>Description</h2>
@@ -11,7 +12,7 @@ This project consists of three parts:
 2. A front end webapp, written in ReactJs;
 3. A mobile app written in React Native.
 
-One the app is running, users can log in using a github user name and find other subscribed users. If both users send a "like" to each other, they are going to receive a "it's a match" message, as long as they are currently logged into the app.
+Once the app is running, users can log in using a github user name and find other subscribed users. If both users send a "like" to each other, they are going to receive a "it's a match" message, as long as they are currently logged into the app.
 
 <h2 id="running" name=running>Running</h2>
 
